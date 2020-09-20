@@ -1,1 +1,1 @@
-https://neotraly.github.io/rsschool-cv/cv
+https://neotraly.github.io/rsschool-cv/
